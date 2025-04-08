@@ -161,8 +161,8 @@ body {
 	--h5-weight: 550;
 	--h6-weight: 550;
 
-	--text-highlight-bg: var(--green);
-	--text-selection: var(--mantle);
+	
+	
 
 	/* TAGS =============== */
 	--tag-color: var(--mantle);
